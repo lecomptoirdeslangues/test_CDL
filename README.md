@@ -4,7 +4,7 @@ Test Symfony 4
 
 * fork le projet sur votre compte github
 
-* Démarrer le projet
+* Démarrer le projet (composer i) (symfony serve)
   
 * suivre les [instructions](https://github.com/lecomptoirdeslangues/test_CDL/blob/main/instruction.pdf)
 
