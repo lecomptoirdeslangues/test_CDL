@@ -8,4 +8,4 @@ Test Symfony 4
   
 * suivre les [instructions](https://github.com/lecomptoirdeslangues/test_CDL/blob/main/instruction.pdf)
 
-* Renvoyer le lien de votre travail au service de recrutement
+* Renvoyer le lien de votre travail au service de recrutement + f.francois@langues.fr 
